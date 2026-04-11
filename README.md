@@ -6,6 +6,24 @@ Cybersecurity enthusiast focused on offensive and defensive security, with stron
 
 ---
 
+## 🛡️ Cybersecurity Engineer (in training)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
+![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![BurpSuite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge)
+
+---
+
 ## 🔥 About Me
 
 - 🧪 400+ machines solved (TryHackMe, Hack The Box, VulnHub)
@@ -53,3 +71,4 @@ Curated collection of tools, notes, and resources for learning and practicing cy
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/claudio-andres-sanjines-cuellar
+
