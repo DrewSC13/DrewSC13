@@ -33,6 +33,12 @@ Cybersecurity research platform for real-time attack capture and analysis.
 ### 🔹 Prometheus Atlas
 Platform focused on detecting insecure infrastructure changes.
 
+### 🔹 PortScanner
+Custom network scanning tool for discovering open ports and services in target systems.
+
+### 🔹 Cybersecurity Resources
+Curated collection of tools, notes, and resources for learning and practicing cybersecurity.
+
 ---
 
 ## 🎯 Platforms
