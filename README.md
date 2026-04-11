@@ -8,7 +8,7 @@ Cybersecurity enthusiast focused on offensive and defensive security, with stron
 
 ## 🔥 About Me
 
-- 🧪 300+ machines solved (TryHackMe, Hack The Box, VulnHub)
+- 🧪 400+ machines solved (TryHackMe, Hack The Box, VulnHub)
 - 🛠️ Building security tools and systems
 - 🎯 Focused on Pentesting & Security Engineering
 - 📊 Experience with real-world attack simulation environments
