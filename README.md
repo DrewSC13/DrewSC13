@@ -1,4 +1,4 @@
-# 👋 Claudio Andres Sanjines Cuellar
+# Claudio Andres Sanjines Cuellar
 
 ## 🛡️ Cybersecurity Engineer (in training) | Ethical Hacker & Pentester
 
