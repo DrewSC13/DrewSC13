@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;Ethical+Hacker+%26+Pentester;Offensive+Security;Security+Researcher&center=true&width=500&height=50">
 </p>
+---
+
 # Claudio Andres Sanjines Cuellar
 
 ---
