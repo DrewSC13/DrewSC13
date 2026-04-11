@@ -83,5 +83,10 @@ Curated collection of tools, notes, and resources for learning and practicing cy
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrewSC13&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrewSC13&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrewSC13&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
+</p>
