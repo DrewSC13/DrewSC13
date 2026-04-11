@@ -1,8 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;Ethical+Hacker+%26+Pentester;Offensive+Security;Security+Researcher&center=true&width=500&height=50">
+</p>
 # Claudio Andres Sanjines Cuellar
-
-## 🛡️ Cybersecurity Engineer (in training) | Ethical Hacker & Pentester
-
-Cybersecurity enthusiast focused on offensive and defensive security, with strong hands-on experience in pentesting and security systems development.
 
 ---
 
@@ -21,6 +20,12 @@ Cybersecurity enthusiast focused on offensive and defensive security, with stron
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge)
+
+---
+
+## 🛡️ Cybersecurity Engineer (in training) | Ethical Hacker & Pentester
+
+Cybersecurity enthusiast focused on offensive and defensive security, with strong hands-on experience in pentesting and security systems development.
 
 ---
 
@@ -67,6 +72,12 @@ Curated collection of tools, notes, and resources for learning and practicing cy
 - 🔗 YouTube: https://www.youtube.com/@Prometheus-h4ck
 
 ---
+
+## 📊 GitHub Stats
+
+![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewSC13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrewSC13&layout=compact&theme=radical)
 
 ## 📫 Contact
 
