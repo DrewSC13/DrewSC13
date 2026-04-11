@@ -17,11 +17,11 @@ Cybersecurity enthusiast focused on offensive and defensive security, with stron
 
 ## ⚙️ Tech Stack
 
-- 🐧 Linux (Advanced)
+- 🐧 Linux (Advanced Kali Linux)
 - 🐍 Python
 - 🦀 Rust
 - 🌐 Networking
-- 🔐 Tools: Nmap, Burp Suite, Metasploit, ffuf
+- 🔐 Tools: Nmap, Burp Suite, Metasploit, ffuf, dirb, hydra, etc
 
 ---
 
