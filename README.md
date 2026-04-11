@@ -75,13 +75,15 @@ Curated collection of tools, notes, and resources for learning and practicing cy
 
 ---
 
-## 📊 GitHub Stats
-
-![Claudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrewSC13&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrewSC13&layout=compact&theme=radical)
-
 ## 📫 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/claudio-andres-sanjines-cuellar
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrewSC13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrewSC13&layout=compact&theme=radical)
 
