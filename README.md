@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Claudio Andres Sanjines Cuellar
 
-<!--
-**DrewSC13/DrewSC13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ Cybersecurity Engineer (in training) | Ethical Hacker & Pentester
 
-Here are some ideas to get you started:
+Cybersecurity enthusiast focused on offensive and defensive security, with strong hands-on experience in pentesting and security systems development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+
+- 🧪 300+ machines solved (TryHackMe, Hack The Box, VulnHub)
+- 🛠️ Building security tools and systems
+- 🎯 Focused on Pentesting & Security Engineering
+- 📊 Experience with real-world attack simulation environments
+
+---
+
+## ⚙️ Tech Stack
+
+- 🐧 Linux (Advanced)
+- 🐍 Python
+- 🦀 Rust
+- 🌐 Networking
+- 🔐 Tools: Nmap, Burp Suite, Metasploit, ffuf
+
+---
+
+## 🚀 Projects
+
+### 🔹 Prometheus Honeypot
+Cybersecurity research platform for real-time attack capture and analysis.
+
+### 🔹 Prometheus Atlas
+Platform focused on detecting insecure infrastructure changes.
+
+---
+
+## 🎯 Platforms
+
+- 🔗 TryHackMe: https://tryhackme.com/p/Prometheus13
+- 🔗 Hack The Box: https://app.hackthebox.com/profile/019d7de5-080f-73c4-af6a-544d606268ad
+- 🔗 Medium: https://medium.com/@claudio.drewsc
+- 🔗 YouTube: https://www.youtube.com/@Prometheus-h4ck
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/claudio-andres-sanjines-cuellar
