@@ -81,8 +81,3 @@ Curated collection of tools, notes, and resources for learning and practicing cy
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DrewSC13&theme=tokyonight" alt="GitHub Streak" />
-</p>
