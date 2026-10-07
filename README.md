@@ -2,82 +2,188 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;Ethical+Hacker+%26+Pentester;Offensive+Security;Security+Researcher&center=true&width=500&height=50">
 </p>
 
-
 # Claudio Andres Sanjines Cuellar
 
----
+**Cybersecurity Engineering | Security Research | Pentesting | Security Tool Development**
 
-## 🛡️ Cybersecurity Engineer (in training)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge)
-![Pentesting](https://img.shields.io/badge/Pentesting-red?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-darkred?style=for-the-badge)
+Founder and GitHub Organization Owner of [Averlyth](https://github.com/Averlyth).
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+I focus on cybersecurity engineering, offensive and defensive security, penetration testing, network security, and the development of security-oriented software and research platforms.
 
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-ff6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=for-the-badge)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge)
+My work emphasizes reproducibility, technical evidence, secure engineering practices, controlled experimentation, and the development of security tooling for authorized environments.
 
 ---
 
-## 🛡️ Cybersecurity Engineer (in training) | Ethical Hacker & Pentester
+## Averlyth
 
-Cybersecurity enthusiast focused on offensive and defensive security, with strong hands-on experience in pentesting and security systems development.
+I founded [Averlyth](https://github.com/Averlyth), an independent cybersecurity engineering organization focused on security research, trustworthy security tooling, and the development of the **Obscuryx Security Platform**.
 
----
+Averlyth provides the organizational and engineering structure for projects that reach the required level of technical maturity, documentation, security controls, and repository governance.
 
-## 🔥 About Me
+Projects transferred from my personal namespace preserve their original Git history, authorship, signed commits, tags, releases, and technical provenance while Averlyth becomes their canonical organizational owner and maintainer.
 
-- 🧪 400+ machines solved (TryHackMe, Hack The Box, VulnHub)
-- 🛠️ Building security tools and systems
-- 🎯 Focused on Pentesting & Security Engineering
-- 📊 Experience with real-world attack simulation environments
+### Obscuryx Security Platform
 
----
+**Obscuryx Security Platform** is the cybersecurity engineering ecosystem developed under Averlyth.
 
-## ⚙️ Tech Stack
+Its components are intended to address specialized security functions including:
 
-- 🐧 Linux (Advanced Kali Linux)
-- 🐍 Python
-- 🦀 Rust
-- 🌐 Networking
-- 🔐 Tools: Nmap, Burp Suite, Metasploit, ffuf, dirb, hydra, etc
-
----
-
-## 🚀 Projects
-
-### 🔹 Prometheus Honeypot
-Cybersecurity research platform for real-time attack capture and analysis.
-
-### 🔹 Prometheus Atlas
-Platform focused on detecting insecure infrastructure changes.
-
-### 🔹 PortScanner
-Custom network scanning tool for discovering open ports and services in target systems.
-
-### 🔹 Cybersecurity Resources
-Curated collection of tools, notes, and resources for learning and practicing cybersecurity.
+- network reconnaissance;
+- attack-surface analysis;
+- security telemetry;
+- detection and investigation;
+- deception technologies;
+- security drift analysis;
+- evidence collection and technical validation.
 
 ---
 
-## 🎯 Platforms
+## Current Organizational Project
 
-- 🔗 TryHackMe: https://tryhackme.com/p/Prometheus13
-- 🔗 Hack The Box: https://app.hackthebox.com/profile/019d7de5-080f-73c4-af6a-544d606268ad
-- 🔗 Medium: https://medium.com/@claudio.drewsc
-- 🔗 YouTube: https://www.youtube.com/@Prometheus-h4ck
+### CicadaPort
+
+[CicadaPort](https://github.com/Averlyth/port-scanner) is a specialized TCP reconnaissance platform designed for authorized security assessments.
+
+Its architecture separates responsibilities across three primary technologies:
+
+- **Python** — orchestration, CLI/TUI, sessions, reporting, configuration, and integration;
+- **Rust** — specialized TCP scanning engine;
+- **Go** — service and banner evidence collection.
+
+The project includes reproducible builds, automated testing, supply-chain controls, dependency auditing, signed artifacts, provenance information, SBOM generation, and governed release processes.
+
+CicadaPort is currently maintained by **Averlyth** as part of the **Obscuryx Security Platform**.
+
+Repository: [github.com/Averlyth/port-scanner](https://github.com/Averlyth/port-scanner)
 
 ---
 
-## 📫 Contact
+## Personal Research Projects
 
-- 💼 LinkedIn: https://www.linkedin.com/in/claudio-andres-sanjines-cuellar
+The following projects remain under my personal development environment while their architecture, technical state, and governance are reviewed before any potential migration to Averlyth.
+
+### Prometheus Atlas
+
+Security engineering platform focused on detecting insecure infrastructure changes, attack-surface modifications, and security drift.
+
+**Status:** personal project pending organizational review.
+
+### Prometheus Honeypot
+
+Cybersecurity research platform focused on attack capture, adversary telemetry, behavioral observation, and security analysis through deception technologies.
+
+**Status:** personal project pending organizational review.
+
+### Cybersecurity Resources
+
+Curated collection of cybersecurity tools, technical references, notes, and learning resources used for research and practical training.
 
 ---
 
+## Areas of Focus
+
+My principal areas of technical interest include:
+
+- Cybersecurity Engineering
+- Penetration Testing
+- Network Security
+- Security Research
+- Offensive Security
+- Defensive Security
+- Security Tool Development
+- Detection Engineering
+- Attack-Surface Analysis
+- Security Automation
+- Linux Security
+- Software Supply-Chain Security
+
+---
+
+## Technical Stack
+
+### Programming
+
+- Python
+- Rust
+- Go
+- Bash
+
+### Systems and Infrastructure
+
+- Linux
+- Kali Linux
+- Git
+- GitHub
+- Docker
+- Networking
+- CI/CD
+
+### Security
+
+Experience with security tooling and methodologies involving:
+
+- Nmap
+- Burp Suite
+- Metasploit
+- ffuf
+- dirb
+- Hydra
+- network reconnaissance;
+- web application testing;
+- vulnerability assessment;
+- controlled attack simulation;
+- security research environments.
+
+---
+
+## Practical Cybersecurity Experience
+
+My training includes hands-on work across more than **600 laboratory machines and security challenges** using platforms and environments such as:
+
+- TryHackMe
+- Hack The Box
+- VulnHub
+
+The work includes enumeration, network analysis, web security, privilege escalation, exploitation laboratories, defensive analysis, and security tooling development.
+
+---
+
+## Engineering Principles
+
+Projects developed or maintained under my work follow several core principles:
+
+- security testing only within authorized scope;
+- reproducible and traceable technical results;
+- preservation of historical authorship and provenance;
+- signed and reviewable changes;
+- explicit technical contracts and interfaces;
+- automated testing and validation;
+- secure defaults;
+- dependency and supply-chain controls;
+- documented engineering decisions;
+- separation between experimental, candidate, and released functionality.
+
+---
+
+## Profiles and Publications
+
+[TryHackMe](https://tryhackme.com/p/Prometheus13)
+
+[Hack The Box](https://app.hackthebox.com/profile/019d7de5-080f-73c4-af6a-544d606268ad)
+
+[Medium](https://medium.com/@claudio.drewsc)
+
+[YouTube](https://www.youtube.com/@Prometheus-h4ck)
+
+[LinkedIn](https://www.linkedin.com/in/claudio-andres-sanjines-cuellar)
+
+---
+
+## Organization
+
+**Averlyth**  
+Cybersecurity Engineering · Security Research · Security Tooling
+
+Founder and GitHub Organization Owner: [@DrewSC13](https://github.com/DrewSC13)
+
+Organization: [github.com/Averlyth](https://github.com/Averlyth)
