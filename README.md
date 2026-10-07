@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity+Engineer;Ethical+Hacker+%26+Pentester;Offensive+Security;Security+Researcher&center=true&width=500&height=50">
-</p>
-
 # Claudio Andres Sanjines Cuellar
 
 **Cybersecurity Engineering | Security Research | Pentesting | Security Tool Development**
@@ -181,7 +177,7 @@ Projects developed or maintained under my work follow several core principles:
 
 ## Organization
 
-**Averlyth**  
+**Averlyth**
 Cybersecurity Engineering · Security Research · Security Tooling
 
 Founder and GitHub Organization Owner: [@DrewSC13](https://github.com/DrewSC13)
